@@ -1,0 +1,12 @@
+.red {
+  color: red;
+}
+
+img {
+  float: left;
+  margin: 10px;
+}
+
+.col-md-10 {
+  display: none;
+}
